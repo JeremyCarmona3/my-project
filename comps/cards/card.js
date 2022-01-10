@@ -24,6 +24,5 @@ export default function Card ({
       <CardText>{text}</CardText>
       <CardText>{text}</CardText>
     </TextCont>
-  </MainCont
-    >
+  </MainCont>
 }
